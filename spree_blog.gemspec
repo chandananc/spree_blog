@@ -3,13 +3,13 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_blog'
   s.version     = '3.0.7'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'Add blogging functionality to spree'
+  s.description = 'Add blogging functionality to spree'
   s.required_ruby_version = '>= 2.0.0'
-
-  # s.author    = 'You'
-  # s.email     = 'you@example.com'
-  # s.homepage  = 'http://www.spreecommerce.com'
+  
+  s.author    = 'David Librera, Stefano Verna'
+  s.email     = 'davidlibrera@gmail.com, stefano.verna@gmail.com'
+  s.homepage  = 'https://github.com/cantierecreativo/spree_blog'
 
   #s.files       = `git ls-files`.split("\n")
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
